@@ -9,6 +9,8 @@ import Foundation
 
 public struct SDK {
     
+    public let name = "-KiRA-"
+    
     public static func testPack() {
         
         print("Test Package....")
